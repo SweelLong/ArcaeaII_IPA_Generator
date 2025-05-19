@@ -4,4 +4,4 @@
 #### 此外可以省去大量的时间，让二创只专注于apk的开发即可
 #### 不提供壳文件，获取详情，请加入QQ群里
 ---
-## 关于ArcaeaII（Arc Funmade）的自制整合包，详见B站👉[Go](https://space.bilibili.com/677414571)
+## 关于ArcaeaII（Arc Fanmade）的自制整合包，详见B站👉[Go](https://space.bilibili.com/677414571)
