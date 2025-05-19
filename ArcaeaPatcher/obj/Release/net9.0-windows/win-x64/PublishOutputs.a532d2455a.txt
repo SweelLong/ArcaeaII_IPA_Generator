@@ -1,0 +1,2 @@
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Release\net9.0-windows\publish\win-x64\ArcaeaPatcher.pdb
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Release\net9.0-windows\publish\win-x64\ArcaeaPatcher.exe

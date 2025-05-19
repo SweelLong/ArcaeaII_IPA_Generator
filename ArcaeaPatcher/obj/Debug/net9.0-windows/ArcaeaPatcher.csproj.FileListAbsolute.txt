@@ -1,0 +1,44 @@
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.exe
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.deps.json
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.runtimeconfig.json
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.dll
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.pdb
+C:\Users\SweelLong\桌面\ArcaeaPatcher\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.csproj.AssemblyReference.cache
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.MainForm.resources
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.Properties.Resources.resources
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.csproj.GenerateResource.cache
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.AssemblyInfoInputs.cache
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.AssemblyInfo.cs
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.csproj.CoreCompileInputs.cache
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPa.E7011FEE.Up2Date
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.dll
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\refint\ArcaeaPatcher.dll
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.pdb
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.genruntimeconfig.cache
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ref\ArcaeaPatcher.dll
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.TitleLocalizedTextEditor.resources
+C:\Users\SweelLong\桌面\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.DifficultiesTextEditor.resources
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.exe
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.deps.json
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.runtimeconfig.json
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.dll
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\bin\Debug\net9.0-windows\ArcaeaPatcher.pdb
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.csproj.AssemblyReference.cache
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.DifficultiesTextEditor.resources
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.MainForm.resources
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.Properties.Resources.resources
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.TitleLocalizedTextEditor.resources
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.csproj.GenerateResource.cache
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.AssemblyInfoInputs.cache
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.AssemblyInfo.cs
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.csproj.CoreCompileInputs.cache
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPa.E7011FEE.Up2Date
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.dll
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\refint\ArcaeaPatcher.dll
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.pdb
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ArcaeaPatcher.genruntimeconfig.cache
+D:\项目文件\ArcaeaII IOS端制作工具\ArcaeaPatcher\obj\Debug\net9.0-windows\ref\ArcaeaPatcher.dll
